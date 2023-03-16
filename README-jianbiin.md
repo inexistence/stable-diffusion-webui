@@ -13,15 +13,20 @@ prompt
 * (detail face:1)
 * 1girl
 * full body
-* focus on face
+* focus on face, face focuse
+* close-up 特寫
 * beautiful detailed eyes
 * look at viewer
+* colorful
+* (Fantasy),magic,elf,Wearing Rags of cloth,elf,extremely detailed CG unity 8k wallpaper
 
 负面prompt
 * EasyNegative
 * veryBadImageNegative
 * worst quality
 * low quality
+* missing legs,(extra legs:1.4),missing arms, extra arm,huge eyes
+* watermark
 
 ## 常用设置
 * Sampling method: DPM++ 2M Karras
